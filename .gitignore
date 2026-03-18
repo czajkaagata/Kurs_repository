@@ -1,0 +1,11 @@
+git remote add origin https://github.com/czajkaagata/Kurs_repository.git
+# Ignoruj wszystkie pliki z rozszerzeniem .csv
+*.csv
+
+# Ignoruj konkretny folder 
+lekcje/
+
+# Ignoruj środowisko wirtualne
+.venv/
+venv/
+env/
