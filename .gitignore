@@ -9,3 +9,7 @@ lekcje/
 .venv/
 venv/
 env/
+
+.env
+__pycache__/
+.venv/
